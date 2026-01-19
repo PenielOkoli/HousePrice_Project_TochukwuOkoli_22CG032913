@@ -1,0 +1,6 @@
+Name: Tochukwu Okoli
+Matric Number: 22CG031913
+Machine Learning Algorithm Used: Random Forest Regressor
+Model persistence method used: Joblib
+Live URL of the hosted application: [Paste the Streamlit Share Link here after deploying]
+GitHub repository link: https://github.com/PenielOkoli/HousePrice_Project_TochukwuOkoli_22CG032913
